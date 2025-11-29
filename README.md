@@ -97,6 +97,7 @@ Excel (Data Cleaning)
 Power Query
 
 📑 Key Insights from Analysis
+
 ✔ Debit Card, Credit Card, and Net Banking are the most used payment methods.
 ✔ Age group 25–45 contributes the highest revenue.
 ✔ Delhi, Bangalore, and Mumbai are the strongest performing cities.
