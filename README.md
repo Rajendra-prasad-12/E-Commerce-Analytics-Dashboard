@@ -27,6 +27,7 @@ Net Amount: ₹158,177,240
 Total Discount Given: ₹7,534,274
 
 📉 Dashboard Visuals & Analysis
+
 1️⃣ Purchase Method Distribution (Pie Chart)
 
 Breakdown of how customers pay—Debit Card, Credit Card, UPI, Net Banking, International Cards, etc.
