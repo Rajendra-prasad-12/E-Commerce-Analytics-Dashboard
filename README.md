@@ -1,4 +1,4 @@
-📊 E-Commerce Analytics Dashboard (Power BI)
+📊 E-Commerce Analytics Dashboard
 
 A complete end-to-end Power BI dashboard analyzing an e-commerce company’s sales performance, customer behavior, discount impact, payment methods, and location-wise business insights.
 
@@ -92,8 +92,11 @@ Kolkata
 Jaipur
 
 🔧 Tools Used
-Power BI Desktop
+
+Tableau Desktop
+
 Excel (Data Cleaning)
+
 Power Query
 
 📑 Key Insights from Analysis
