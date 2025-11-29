@@ -15,10 +15,15 @@ This project focuses on analyzing retail sales data to uncover patterns related 
 Using Power BI, the dashboard enables stakeholders to identify opportunities for improving marketing strategies, targeting customer segments, and optimizing performance.
 
 🧮 KPIs Displayed
+
 The dashboard highlights the following key metrics:
+
 Total Customers: 55,000
+
 Gross Amount: ₹165,711,513
+
 Net Amount: ₹158,177,240
+
 Total Discount Given: ₹7,534,274
 
 📉 Dashboard Visuals & Analysis
@@ -27,37 +32,63 @@ Total Discount Given: ₹7,534,274
 Breakdown of how customers pay—Debit Card, Credit Card, UPI, Net Banking, International Cards, etc.
 
 2️⃣ Age-wise Net Revenue Trend (Line Chart)
+
 Identifies which age groups contribute most to revenue:
+
 Under 18
+
 18–25
+
 25–45
+
 45–60
+
 60+
 
 3️⃣ Discount Usage Analysis (Pie Chart)
+
 Shows which discount codes generate the highest sales:
+
 WELCOME5
+
 FESTIVE50
+
 NEWYEARS
+
 SEASONALOFFER21
+
 SAVE10
 
 4️⃣ Gender-wise Revenue Split (Pie Chart)
+
 Revenue contribution:
+
 Female
+
 Male
+
 Other
 
 5️⃣ City-wise Revenue (Bar Chart)
+
 Top performing locations include:
+
 Delhi
+
 Bangalore
+
 Mumbai
+
 Hyderabad
+
 Chennai
+
 Pune
+
 Ahmedabad
+
 Kolkata
+
 Jaipur
 
 🔧 Tools Used
